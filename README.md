@@ -14,7 +14,7 @@ It combines geospatial computation, visualization, and policy analysis to identi
 
 The project is implemented in Python and deployed as an interactive Streamlit web application.
 
-👉 Live App: [[Streamlit link]](https://minimum-temperature-raster-bmzdr47ahxkcqffeqwvozm.streamlit.app/)
+👉 [[Streamlit App link]](https://minimum-temperature-raster-bmzdr47ahxkcqffeqwvozm.streamlit.app/)
 
 ## Repository Structure
 ```
